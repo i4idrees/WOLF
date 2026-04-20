@@ -1,0 +1,6 @@
+ART_Threshold,ER_Threshold,Epsilon,,,,,,,,,,,,,
+7,20,0.5,,,,,,,,,,,,,
+episode,episodeStep,exploit,elapsedTime,solutionNo,stepReply,reward,responseTime,errorRate,totalWorkload,HomePage,LoginUser,RegisterUser,ItemSelection,SearchProduct,ItemPurchase
+1,1,0,0.074,1,ItemPurchase,338.60001,3.286,0,1,0,0,0,0,0,1
+1,2,1,0.008,1,ItemPurchase,10,3.262,0,2,0,0,0,0,0,2
+1,3,0,0.006,1,ItemSelection,40.49998,3.567,0,3,0,0,0,1,0,2

@@ -1,0 +1,17 @@
+[
+    {
+        "SUT": "DVD",
+        "transactions": ["HomePage", "LoginUser", "RegisterUser", "ItemSelection", "SearchProduct", "ItemPurchase"],
+        "allPossibleActions": [0, 1, 2, 3, 4, 5],
+        "workloadChangeBy": 1,
+        "workloadChangeType": 1,
+        "MaxEpochs": 1,
+        "maxProblems": 100000,
+        "Epsilon": 0.5,
+        "ARTThreshhold": 15.0,
+        "ERThreshhold": 20.0,
+        "Testing": 0,
+        "testFrequency": 500,
+        "repeatTimes": 1
+    }
+]

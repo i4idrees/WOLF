@@ -1,0 +1,8 @@
+{
+  "name": "XCS Dev Container",
+  "dockerComposeFile": ["../docker-compose.yml"],
+  "service": "xcs-dev",
+  "workspaceFolder": "/app/src",
+  "extensions": ["ms-vscode.cpptools"],
+  "remoteUser": "root"
+}

@@ -1,0 +1,62 @@
+version: '3.8'
+
+services:
+  # RUBiS SUT (unchanged)
+  rubisweb:
+    build: ./rubisweb
+    depends_on:
+      - rubisdb1
+    ports:
+      - "8080:80"
+
+  rubisdb1:
+    build: ./rubisdb
+    environment:
+      - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+      - MYSQL_DATABASE=rubis
+    ports:
+      - "3306:3306"
+
+  # DVD2 SUT (separate web + db like RUBiS)
+  dvd2web:
+    build: ./dvd2/web
+    depends_on:
+      - dvd2db
+    ports:
+      - "8080:80"  # Different port to avoid conflict
+
+  dvd2db:
+    build: ./dvd2/db
+    environment:
+      - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+      - MYSQL_DATABASE=dvd2db
+    ports:
+      - "3306:3306"  # Different port to avoid conflict
+
+  # XCS - updated to support both SUT patterns
+  xcs-dev:
+    container_name: xcs-dev        
+    build:
+      context: ./XCS
+    volumes:
+      - ./XCS:/app/src
+      - ./XCS/results:/app/results
+      - /var/run/docker.sock:/var/run/docker.sock
+    tty: true
+    stdin_open: true
+    entrypoint: ["/bin/bash"]
+    ports:
+      - "1234:1234"
+    profiles: ["dev"]
+
+  xcs-prod:
+    build:
+      context: ./XCS
+    volumes:
+      - ./XCS:/app/src
+      - ./XCS/results:/app/results
+      - /var/run/docker.sock:/var/run/docker.sock
+    tty: true
+    stdin_open: true
+    entrypoint: ["sh", "-c", "find /app/src -name '*.sh' -exec chmod +x {} \\; && echo 'Waiting for SUT...' && sleep 45 && g++ -O2 src/*.cpp -o xcs -I/usr/include/mariadb -ltinyxml2 -lmariadb && ./xcs"]
+    profiles: ["prod"]

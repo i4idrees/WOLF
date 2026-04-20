@@ -1,0 +1,17 @@
+[
+    {
+        "SUT": "RUBIS",
+        "transactions": ["HomePage", "RegisterPage", "RegisterUser", "BrowsePage", "BrowseInCategories", "BrowseInRegions", "SellPage", "SellItem", "AboutMePage", "AboutMeUser", "BidOnItem", "BuyItem"],
+        "allPossibleActions": [2, 4, 5, 7, 8, 9],
+        "workloadChangeBy": 1,
+        "workloadChangeType": 1,
+        "MaxEpochs": 1,
+        "maxProblems": 100000,
+        "Epsilon": 0.5,
+        "ARTThreshhold": 15.0,
+        "ERThreshhold": 20.0,
+        "Testing": 0,
+        "testFrequency": 1034,
+        "repeatTimes": 1
+    }
+]

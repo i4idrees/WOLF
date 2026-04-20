@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="xcsCFCavg" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/xcsCFCavg" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="tinyxml2-master/tinyxml2.cpp" />
+					<Add library="tinyxml2-master/tinyxml2.h" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/xcsCFCavg" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="tinyxml2-master/tinyxml2.cpp" />
+					<Add library="tinyxml2-master/tinyxml2.h" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="C:/Program Files/MySQL/MySQL Connector C 6.1/include" />
+			<Add directory="tinyxml2-master" />
+		</Compiler>
+		<Linker>
+			<Add library="C:/Program Files/MySQL/MySQL Connector C 6.1/lib/libmysql.lib" />
+			<Add library="C:/Program Files/MySQL/MySQL Connector C 6.1/include/mysql.h" />
+			<Add directory="C:/Program Files/CodeBlocks/MinGW/x86_64-w64-mingw32/lib" />
+			<Add directory="C:/Users/Idrees/Desktop/libxml2-master/include/libxml" />
+			<Add directory="C:/Program Files/MySQL/MySQL Connector C 6.1/lib" />
+			<Add directory="C:/Program Files/MySQL/MySQL Connector C 6.1/lib/libmysql.lib" />
+			<Add directory="tinyxml2-master" />
+		</Linker>
+		<Unit filename="classifier.cpp" />
+		<Unit filename="classifier.h" />
+		<Unit filename="codeFragment.cpp" />
+		<Unit filename="codeFragment.h" />
+		<Unit filename="configuration.h" />
+		<Unit filename="env.cpp" />
+		<Unit filename="env.h" />
+		<Unit filename="parser.h" />
+		<Unit filename="time.cpp" />
+		<Unit filename="time.h" />
+		<Unit filename="xcs.cpp" />
+		<Unit filename="xcs.h" />
+		<Unit filename="xcsCFCavg.depend" />
+		<Unit filename="xcsCFCavg.layout" />
+		<Unit filename="xcsMacros.cpp" />
+		<Unit filename="xcsMacros.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

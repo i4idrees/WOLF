@@ -1,0 +1,14 @@
+FROM mysql:5.7
+
+# Set environment variables for MySQL
+ENV MYSQL_ALLOW_EMPTY_PASSWORD=yes
+ENV MYSQL_DATABASE=dvd2db
+
+# Copy the SQL file to the Docker entrypoint directory
+COPY DVD2DB.sql /docker-entrypoint-initdb.d/
+
+#Newly added line for performance database
+COPY perfDB.sql /docker-entrypoint-initdb.d/
+
+# Expose port 3306
+EXPOSE 3306

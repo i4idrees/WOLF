@@ -1,0 +1,13 @@
+[
+    {
+        "SUT": "DVD",
+        "transactions": ["HomePage", "LoginUser", "RegisterUser", "ItemSelection", "SearchProduct", "ItemPurchase"],
+        "allPossibleActions": [0, 1, 2, 3, 4, 5],
+        "MaxEpochs": 5000,
+        "Epsilon": 2,
+        "ARTThreshhold": 30,
+        "ERThreshhold": 20.0,
+        "Loops": 3,
+        "MaxThreads": 500
+    }
+]

@@ -1,0 +1,3142 @@
+# depslib dependency file v1.0
+1488249817 source:e:\task3\rcfc from home\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1487081456 e:\task3\rcfc from home\xcsmacros.h
+
+1486383090 e:\task3\rcfc from home\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1488273552 e:\task3\rcfc from home\configuration.h
+
+1484836037 e:\task3\rcfc from home\classifier.h
+
+1487339291 source:e:\task3\rcfc from home\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1488268059 e:\task3\rcfc from home\env.h
+
+1488272210 source:e:\task3\rcfc from home\env.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<cstring>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+
+1453300620 source:e:\task3\rcfc from home\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1453300620 e:\task3\rcfc from home\time.h
+	<sys/time.h>
+	<fstream>
+
+1488272134 source:e:\task3\rcfc from home\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<string.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<math.h>
+	<cstring>
+	<omp.h>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"xcs.h"
+	"env.h"
+
+1488268059 e:\task3\rcfc from home\xcs.h
+	<fstream>
+
+1453300620 source:e:\task3\rcfc from home\xcsmacros.cpp
+	"xcsMacros.h"
+
+1488260617 source:e:\dev\codeblock\cfc\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1487092256 e:\dev\codeblock\cfc\xcsmacros.h
+
+1486393890 e:\dev\codeblock\cfc\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1488284352 e:\dev\codeblock\cfc\configuration.h
+
+1484846837 e:\dev\codeblock\cfc\classifier.h
+
+1487350091 source:e:\dev\codeblock\cfc\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1488278859 e:\dev\codeblock\cfc\env.h
+
+1453311420 source:e:\dev\codeblock\cfc\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1453311420 e:\dev\codeblock\cfc\time.h
+	<sys/time.h>
+	<fstream>
+
+1453311420 source:e:\dev\codeblock\cfc\xcsmacros.cpp
+	"xcsMacros.h"
+
+1488277722 source:e:\dev\codeblock\cfc\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<string.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<math.h>
+	<cstring>
+	<omp.h>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"xcs.h"
+	"env.h"
+
+1488279070 e:\dev\codeblock\cfc\xcs.h
+	<fstream>
+
+1492533351 source:e:\task4\final\cfc\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1492533351 e:\task4\final\cfc\xcsmacros.h
+
+1492533351 e:\task4\final\cfc\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1493230654 e:\task4\final\cfc\configuration.h
+
+1492533351 e:\task4\final\cfc\classifier.h
+
+1492533351 source:e:\task4\final\cfc\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1492533351 e:\task4\final\cfc\env.h
+
+1492533351 source:e:\task4\final\cfc\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1492533351 e:\task4\final\cfc\time.h
+	<sys/time.h>
+	<fstream>
+
+1493003453 source:e:\task4\final\cfc\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<string.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<math.h>
+	<cstring>
+	<omp.h>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"xcs.h"
+	"env.h"
+
+1492533351 e:\task4\final\cfc\xcs.h
+	<fstream>
+
+1492533351 source:e:\task4\final\cfc\xcsmacros.cpp
+	"xcsMacros.h"
+
+1492533351 source:e:\task4\final\cfc\env.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<cstring>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+
+1495182972 source:e:\thesis\code\rcfc\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1492533351 e:\thesis\code\rcfc\xcsmacros.h
+
+1492533351 e:\thesis\code\rcfc\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1495216112 e:\thesis\code\rcfc\configuration.h
+
+1495183009 e:\thesis\code\rcfc\classifier.h
+
+1492533351 source:e:\thesis\code\rcfc\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1495183533 e:\thesis\code\rcfc\env.h
+
+1492533351 source:e:\thesis\code\rcfc\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1492533351 e:\thesis\code\rcfc\time.h
+	<sys/time.h>
+	<fstream>
+
+1492533351 source:e:\thesis\code\rcfc\xcsmacros.cpp
+	"xcsMacros.h"
+
+1495205301 source:e:\thesis\code\rcfc\env.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<cstring>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+
+1495214608 source:e:\thesis\code\rcfc\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<assert.h>
+	<math.h>
+	<cstring>
+	<vector>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+
+1495183779 e:\thesis\code\rcfc\xcs.h
+	<fstream>
+
+1495182972 source:g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1492533350 g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\xcsmacros.h
+
+1492533350 g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1572947595 g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\configuration.h
+
+1495183008 g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\classifier.h
+
+1492533350 source:g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1495183532 g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\env.h
+
+1572074493 source:g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\env.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<cstring>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+
+1492533350 source:g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1492533350 g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\time.h
+	<sys/time.h>
+	<fstream>
+
+1572088889 source:g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<assert.h>
+	<math.h>
+	<cstring>
+	<vector>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+
+1495183778 g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\xcs.h
+	<fstream>
+
+1492533350 source:g:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\xcsmacros.cpp
+	"xcsMacros.h"
+
+1587640664 source:d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1581584431 d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\xcsmacros.h
+
+1576562454 d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1588869517 d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\configuration.h
+
+1576562896 d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\classifier.h
+
+1582882991 source:d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1495183532 d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\env.h
+
+1586761455 source:d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\env.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<cstring>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+
+1492533350 source:d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1492533350 d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\time.h
+	<sys/time.h>
+	<fstream>
+
+1588795896 source:d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<assert.h>
+	<math.h>
+	<cstring>
+	<vector>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+
+1495183778 d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\xcs.h
+	<fstream>
+
+1583113260 source:d:\phd\research related\uw images\coding\paper iii code\rcfc\rcfc\xcsmacros.cpp
+	"xcsMacros.h"
+
+1637233647 source:c:\users\zafar\desktop\lcs\rcfc\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1581584431 c:\users\zafar\desktop\lcs\rcfc\xcsmacros.h
+
+1576562454 c:\users\zafar\desktop\lcs\rcfc\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1637235593 c:\users\zafar\desktop\lcs\rcfc\configuration.h
+
+1576562896 c:\users\zafar\desktop\lcs\rcfc\classifier.h
+
+1582882991 source:c:\users\zafar\desktop\lcs\rcfc\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1637084150 c:\users\zafar\desktop\lcs\rcfc\env.h
+
+1637231594 source:c:\users\zafar\desktop\lcs\rcfc\env.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<cstring>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	<winsock2.h>
+
+1637079751 source:c:\users\zafar\desktop\lcs\rcfc\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1492533350 c:\users\zafar\desktop\lcs\rcfc\time.h
+	<sys/time.h>
+	<fstream>
+
+1637231393 source:c:\users\zafar\desktop\lcs\rcfc\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<assert.h>
+	<math.h>
+	<cstring>
+	<vector>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+
+1637077613 c:\users\zafar\desktop\lcs\rcfc\xcs.h
+	<fstream>
+
+1583113260 source:c:\users\zafar\desktop\lcs\rcfc\xcsmacros.cpp
+	"xcsMacros.h"
+
+1637078632 source:c:\users\zafar\desktop\lcs\rcfc\socket.cpp
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+
+1637079751 source:f:\phd papers\8. self-adaptation(lcs)\rcfc\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1492533350 f:\phd papers\8. self-adaptation(lcs)\rcfc\time.h
+	<sys/time.h>
+	<fstream>
+
+1637232670 source:f:\phd papers\8. self-adaptation(lcs)\rcfc\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<assert.h>
+	<math.h>
+	<cstring>
+	<vector>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+
+1654252713 f:\phd papers\8. self-adaptation(lcs)\rcfc\xcsmacros.h
+
+1654249705 f:\phd papers\8. self-adaptation(lcs)\rcfc\configuration.h
+
+1576562896 f:\phd papers\8. self-adaptation(lcs)\rcfc\classifier.h
+
+1637084150 f:\phd papers\8. self-adaptation(lcs)\rcfc\env.h
+
+1637236336 f:\phd papers\8. self-adaptation(lcs)\rcfc\xcs.h
+	<fstream>
+
+1583113260 source:f:\phd papers\8. self-adaptation(lcs)\rcfc\xcsmacros.cpp
+	"xcsMacros.h"
+
+1654173964 source:f:\phd papers\8. self-adaptation(lcs)\rcfc\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1654170715 f:\phd papers\8. self-adaptation(lcs)\rcfc\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1654240436 source:f:\phd papers\8. self-adaptation(lcs)\rcfc\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1654318860 source:f:\phd papers\8. self-adaptation(lcs)\rcfc\env.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<cstring>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	<winsock2.h>
+
+1655376592 source:c:\users\zafar\desktop\learning\rcfc\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1655371523 c:\users\zafar\desktop\learning\rcfc\xcsmacros.h
+
+1654170715 c:\users\zafar\desktop\learning\rcfc\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1657188964 c:\users\zafar\desktop\learning\rcfc\configuration.h
+
+1655036835 c:\users\zafar\desktop\learning\rcfc\classifier.h
+
+1655378628 source:c:\users\zafar\desktop\learning\rcfc\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1637084150 c:\users\zafar\desktop\learning\rcfc\env.h
+
+1655315670 source:c:\users\zafar\desktop\learning\rcfc\env.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<cstring>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	<winsock2.h>
+
+1637079751 source:c:\users\zafar\desktop\learning\rcfc\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1492533350 c:\users\zafar\desktop\learning\rcfc\time.h
+	<sys/time.h>
+	<fstream>
+
+1657189246 source:c:\users\zafar\desktop\learning\rcfc\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<assert.h>
+	<math.h>
+	<cstring>
+	<vector>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+
+1655139601 c:\users\zafar\desktop\learning\rcfc\xcs.h
+	<fstream>
+
+1583113260 source:c:\users\zafar\desktop\learning\rcfc\xcsmacros.cpp
+	"xcsMacros.h"
+
+1655376592 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1655371523 d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\xcsmacros.h
+
+1654170715 d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1657188964 d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\configuration.h
+
+1655036835 d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\classifier.h
+
+1723036634 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1637087750 d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\env.h
+
+1723037849 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\env.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<cstring>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+
+1637083351 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1492533350 d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\time.h
+	<sys/time.h>
+	<fstream>
+
+1723036655 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<assert.h>
+	<math.h>
+	<cstring>
+	<vector>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+
+1655139601 d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\xcs.h
+	<fstream>
+
+1583116860 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\zafar xcs code\rcfc\xcsmacros.cpp
+	"xcsMacros.h"
+
+1655376592 source:d:\codeblockprijects\rcfc\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1655371523 d:\codeblockprijects\rcfc\xcsmacros.h
+
+1654170715 d:\codeblockprijects\rcfc\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1657188964 d:\codeblockprijects\rcfc\configuration.h
+
+1655036835 d:\codeblockprijects\rcfc\classifier.h
+
+1723036634 source:d:\codeblockprijects\rcfc\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1637087750 d:\codeblockprijects\rcfc\env.h
+
+1723376358 source:d:\codeblockprijects\rcfc\env.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<cstring>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	"math.h"
+
+1637083351 source:d:\codeblockprijects\rcfc\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1492533350 d:\codeblockprijects\rcfc\time.h
+	<sys/time.h>
+	<fstream>
+
+1723036655 source:d:\codeblockprijects\rcfc\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<assert.h>
+	<math.h>
+	<cstring>
+	<vector>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+
+1655139601 d:\codeblockprijects\rcfc\xcs.h
+	<fstream>
+
+1583116860 source:d:\codeblockprijects\rcfc\xcsmacros.cpp
+	"xcsMacros.h"
+
+1655376592 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1655371523 d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\xcsmacros.h
+
+1654170715 d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1657188964 d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\configuration.h
+
+1655036835 d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\classifier.h
+
+1723036634 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1637087750 d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\env.h
+
+1637083351 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1492533350 d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\time.h
+	<sys/time.h>
+	<fstream>
+
+1724161941 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<assert.h>
+	<math.h>
+	<cstring>
+	<vector>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<vector>
+	"sut.h"
+	<utility>
+	<unordered_map>
+	<cctype>
+
+1655139601 d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\xcs.h
+	<fstream>
+
+1583116860 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\xcsmacros.cpp
+	"xcsMacros.h"
+
+1724082982 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\env.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<cstring>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	"math.h"
+	<array>
+	<string>
+	<memory>
+	<vector>
+	"sut.h"
+
+1724155997 d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\sut.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	<tinyxml2.h>
+
+1724156162 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\sut.cpp
+	<string.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<iostream>
+	<tinyxml2.h>
+	<thread>
+	<chrono>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iostream>
+	<sstream>
+	<utility>
+	"sut.h"
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<utility>
+	<unordered_map>
+	<cctype>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\parser.h
+	<stdarg.h>
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/dict.h>
+	<libxml/hash.h>
+	<libxml/valid.h>
+	<libxml/entities.h>
+	<libxml/xmlerror.h>
+	<libxml/xmlstring.h>
+	<libxml/encoding.h>
+	<libxml/xmlIO.h>
+	<libxml/globals.h>
+
+1723870580 c:\users\idrees\desktop\libxml2-master\include\libxml\xmlversion.h
+	<libxml/xmlexports.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\xmlexports.h
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\tree.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/xmlstring.h>
+	<libxml/xmlregexp.h>
+	<libxml/xmlmemory.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\xmlstring.h
+	<stdarg.h>
+	<libxml/xmlversion.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\xmlregexp.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/dict.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\dict.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\xmlmemory.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/threads.h>
+	<libxml/globals.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\threads.h
+	<libxml/xmlversion.h>
+	<libxml/globals.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\globals.h
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xmlerror.h>
+	<libxml/SAX.h>
+	<libxml/SAX2.h>
+	<libxml/xmlmemory.h>
+	<libxml/threads.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\xmlerror.h
+	<libxml/parser.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\sax.h
+	<stdio.h>
+	<stdlib.h>
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xlink.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\xlink.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\sax2.h
+	<stdio.h>
+	<stdlib.h>
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xlink.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\hash.h
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/dict.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\valid.h
+	<libxml/xmlversion.h>
+	<libxml/xmlerror.h>
+	<libxml/tree.h>
+	<libxml/list.h>
+	<libxml/xmlautomata.h>
+	<libxml/xmlregexp.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\list.h
+	<libxml/xmlversion.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\xmlautomata.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/xmlregexp.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\entities.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\encoding.h
+	<libxml/xmlversion.h>
+	<iconv.h>
+	<unicode/ucnv.h>
+	<libxml/tree.h>
+
+1336798226 c:\users\idrees\desktop\libxml2-master\include\libxml\xmlio.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/globals.h>
+	<libxml/tree.h>
+	<libxml/parser.h>
+	<libxml/encoding.h>
+
+1720294915 source:d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1720294915 d:\l'aquila university(phd study related data)\code, datasets, commands etc\mycodeblockprojects\rcfc\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1720294915 c:\users\idrees\desktop\tinyxml2-master\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1726847123 source:d:\mycodeblockprojects\rcfc\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1655371523 d:\mycodeblockprojects\rcfc\xcsmacros.h
+
+1654170715 d:\mycodeblockprojects\rcfc\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1726848069 d:\mycodeblockprojects\rcfc\configuration.h
+
+1655036835 d:\mycodeblockprojects\rcfc\classifier.h
+
+1726851211 source:d:\mycodeblockprojects\rcfc\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"env.h"
+
+1729154347 d:\mycodeblockprojects\rcfc\env.h
+	"tinyxml2.h"
+
+1729155299 source:d:\mycodeblockprojects\rcfc\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	<mysql.h>
+
+1725187102 d:\mycodeblockprojects\rcfc\sut.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	<tinyxml2.h>
+
+1725186818 source:d:\mycodeblockprojects\rcfc\sut.cpp
+	<string.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<iostream>
+	<tinyxml2.h>
+	<thread>
+	<chrono>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iostream>
+	<sstream>
+	<utility>
+	"sut.h"
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+
+1637083351 source:d:\mycodeblockprojects\rcfc\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1492533350 d:\mycodeblockprojects\rcfc\time.h
+	<sys/time.h>
+	<fstream>
+
+1720294915 source:d:\mycodeblockprojects\rcfc\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1720294915 d:\mycodeblockprojects\rcfc\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729155178 source:d:\mycodeblockprojects\rcfc\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+
+1655139601 d:\mycodeblockprojects\rcfc\xcs.h
+	<fstream>
+
+1583116860 source:d:\mycodeblockprojects\rcfc\xcsmacros.cpp
+	"xcsMacros.h"
+
+1720294915 d:\mycodeblockprojects\rcfc\tinyxml2-master\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1499932532 c:\program files\mysql\mysql connector c 6.1\include\mysql.h
+	<sys/types.h>
+	<windows.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"mysql/client_plugin.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1499948952 c:\program files\mysql\mysql connector c 6.1\include\mysql_version.h
+	<custom_conf.h>
+
+1499932532 c:\program files\mysql\mysql connector c 6.1\include\mysql_com.h
+	"binary_log_types.h"
+	"my_command.h"
+
+1499932532 c:\program files\mysql\mysql connector c 6.1\include\binary_log_types.h
+
+1499932532 c:\program files\mysql\mysql connector c 6.1\include\my_command.h
+
+1499932532 c:\program files\mysql\mysql connector c 6.1\include\mysql_time.h
+
+1499932532 c:\program files\mysql\mysql connector c 6.1\include\my_list.h
+
+1499932532 c:\program files\mysql\mysql connector c 6.1\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	"plugin_auth_common.h"
+
+1499932532 c:\program files\mysql\mysql connector c 6.1\include\mysql\plugin_auth_common.h
+	<windows.h>
+
+1499932532 c:\program files\mysql\mysql connector c 6.1\include\typelib.h
+	"my_alloc.h"
+
+1499932532 c:\program files\mysql\mysql connector c 6.1\include\my_alloc.h
+	"mysql/psi/psi_memory.h"
+
+1499932532 c:\program files\mysql\mysql connector c 6.1\include\mysql\psi\psi_memory.h
+	"psi_base.h"
+
+1499932532 c:\program files\mysql\mysql connector c 6.1\include\mysql\psi\psi_base.h
+
+1732902906 source:d:\codeblockprojects\rcfc-idrees\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1729679657 d:\codeblockprojects\rcfc-idrees\xcsmacros.h
+
+1732907554 d:\codeblockprojects\rcfc-idrees\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1733056049 d:\codeblockprojects\rcfc-idrees\configuration.h
+
+1732900577 d:\codeblockprojects\rcfc-idrees\classifier.h
+
+1732908105 source:d:\codeblockprojects\rcfc-idrees\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+
+1732904814 d:\codeblockprojects\rcfc-idrees\env.h
+	"tinyxml2.h"
+
+1725291190 d:\codeblockprojects\rcfc-idrees\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729679657 source:d:\codeblockprojects\rcfc-idrees\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1731335257 d:\codeblockprojects\rcfc-idrees\time.h
+	<sys/time.h>
+	<fstream>
+	<winsock2.h>
+
+1725291190 source:d:\codeblockprojects\rcfc-idrees\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1732914459 source:d:\codeblockprojects\rcfc-idrees\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+
+1732904788 d:\codeblockprojects\rcfc-idrees\xcs.h
+	<fstream>
+
+1729679657 source:d:\codeblockprojects\rcfc-idrees\xcsmacros.cpp
+	"xcsMacros.h"
+
+1732978264 source:d:\codeblockprojects\rcfc-idrees\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	<mysql.h>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+
+1725291190 d:\codeblockprojects\rcfc-idrees\tinyxml2-master\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1725291190 source:d:\codeblockprojects\rcfc-idrees\tinyxml2-master\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1733092406 source:d:\codeblockprojects\rcfc-reload(richagentstate)\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1729679657 d:\codeblockprojects\rcfc-reload(richagentstate)\xcsmacros.h
+
+1732907554 d:\codeblockprojects\rcfc-reload(richagentstate)\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1733064243 d:\codeblockprojects\rcfc-reload(richagentstate)\configuration.h
+
+1732900577 d:\codeblockprojects\rcfc-reload(richagentstate)\classifier.h
+
+1732908105 source:d:\codeblockprojects\rcfc-reload(richagentstate)\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+
+1733077254 source:d:\codeblockprojects\rcfc-reload(richagentstate)\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	<mysql.h>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+
+1732904814 d:\codeblockprojects\rcfc-reload(richagentstate)\env.h
+	"tinyxml2.h"
+
+1725291190 d:\codeblockprojects\rcfc-reload(richagentstate)\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729679657 source:d:\codeblockprojects\rcfc-reload(richagentstate)\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1731335257 d:\codeblockprojects\rcfc-reload(richagentstate)\time.h
+	<sys/time.h>
+	<fstream>
+	<winsock2.h>
+
+1733094040 source:d:\codeblockprojects\rcfc-reload(richagentstate)\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+
+1732904788 d:\codeblockprojects\rcfc-reload(richagentstate)\xcs.h
+	<fstream>
+
+1729679657 source:d:\codeblockprojects\rcfc-reload(richagentstate)\xcsmacros.cpp
+	"xcsMacros.h"
+
+1733095091 source:d:\codeblockprojects\rcfc-reload(compressagentstate)\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1729679657 d:\codeblockprojects\rcfc-reload(compressagentstate)\xcsmacros.h
+
+1732907554 d:\codeblockprojects\rcfc-reload(compressagentstate)\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1739539802 d:\codeblockprojects\rcfc-reload(compressagentstate)\configuration.h
+
+1732900577 d:\codeblockprojects\rcfc-reload(compressagentstate)\classifier.h
+
+1732908105 source:d:\codeblockprojects\rcfc-reload(compressagentstate)\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+
+1739712323 source:d:\codeblockprojects\rcfc-reload(compressagentstate)\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	<mysql.h>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+
+1739112775 d:\codeblockprojects\rcfc-reload(compressagentstate)\env.h
+	"tinyxml2.h"
+
+1725291190 d:\codeblockprojects\rcfc-reload(compressagentstate)\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729679657 source:d:\codeblockprojects\rcfc-reload(compressagentstate)\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1731335257 d:\codeblockprojects\rcfc-reload(compressagentstate)\time.h
+	<sys/time.h>
+	<fstream>
+	<winsock2.h>
+
+1739712210 source:d:\codeblockprojects\rcfc-reload(compressagentstate)\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+
+1739452998 d:\codeblockprojects\rcfc-reload(compressagentstate)\xcs.h
+	<fstream>
+
+1729679657 source:d:\codeblockprojects\rcfc-reload(compressagentstate)\xcsmacros.cpp
+	"xcsMacros.h"
+
+1741443803 source:d:\codeblockprojects\xcs-reload-jmeterindocker\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1729679657 d:\codeblockprojects\xcs-reload-jmeterindocker\xcsmacros.h
+
+1732907554 d:\codeblockprojects\xcs-reload-jmeterindocker\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1739539802 d:\codeblockprojects\xcs-reload-jmeterindocker\configuration.h
+
+1732900577 d:\codeblockprojects\xcs-reload-jmeterindocker\classifier.h
+
+1732908105 source:d:\codeblockprojects\xcs-reload-jmeterindocker\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+
+1741983957 source:d:\codeblockprojects\xcs-reload-jmeterindocker\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	<mysql.h>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	<windows.h>
+	<unistd.h>
+	<sys/wait.h>
+
+1741382682 d:\codeblockprojects\xcs-reload-jmeterindocker\env.h
+	"tinyxml2.h"
+
+1725291190 d:\codeblockprojects\xcs-reload-jmeterindocker\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729679657 source:d:\codeblockprojects\xcs-reload-jmeterindocker\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1739960484 d:\codeblockprojects\xcs-reload-jmeterindocker\time.h
+	<sys/time.h>
+	<fstream>
+
+1741979559 source:d:\codeblockprojects\xcs-reload-jmeterindocker\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+	<regex>
+
+1739452998 d:\codeblockprojects\xcs-reload-jmeterindocker\xcs.h
+	<fstream>
+
+1729679657 source:d:\codeblockprojects\xcs-reload-jmeterindocker\xcsmacros.cpp
+	"xcsMacros.h"
+
+1741443803 source:d:\codeblockprojects\xcs-our approach\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1729679657 d:\codeblockprojects\xcs-our approach\xcsmacros.h
+
+1732907554 d:\codeblockprojects\xcs-our approach\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1742123948 d:\codeblockprojects\xcs-our approach\configuration.h
+
+1732900577 d:\codeblockprojects\xcs-our approach\classifier.h
+
+1732908105 source:d:\codeblockprojects\xcs-our approach\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+
+1742309125 source:d:\codeblockprojects\xcs-our approach\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	<mysql.h>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	<windows.h>
+	<unistd.h>
+	<sys/wait.h>
+
+1742300178 d:\codeblockprojects\xcs-our approach\env.h
+	"tinyxml2.h"
+
+1725291190 d:\codeblockprojects\xcs-our approach\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729679657 source:d:\codeblockprojects\xcs-our approach\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1739960484 d:\codeblockprojects\xcs-our approach\time.h
+	<sys/time.h>
+	<fstream>
+
+1742245497 source:d:\codeblockprojects\xcs-our approach\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+	<regex>
+
+1739452998 d:\codeblockprojects\xcs-our approach\xcs.h
+	<fstream>
+
+1729679657 source:d:\codeblockprojects\xcs-our approach\xcsmacros.cpp
+	"xcsMacros.h"
+
+1741443803 source:d:\codeblockprojects\xcs-our approach(twl only observation)\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1729679657 d:\codeblockprojects\xcs-our approach(twl only observation)\xcsmacros.h
+
+1732907554 d:\codeblockprojects\xcs-our approach(twl only observation)\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1742123948 d:\codeblockprojects\xcs-our approach(twl only observation)\configuration.h
+
+1732900577 d:\codeblockprojects\xcs-our approach(twl only observation)\classifier.h
+
+1732908105 source:d:\codeblockprojects\xcs-our approach(twl only observation)\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+
+1742907124 source:d:\codeblockprojects\xcs-our approach(twl only observation)\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	<mysql.h>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	<windows.h>
+	<unistd.h>
+	<sys/wait.h>
+
+1742806324 d:\codeblockprojects\xcs-our approach(twl only observation)\env.h
+	"tinyxml2.h"
+
+1725291190 d:\codeblockprojects\xcs-our approach(twl only observation)\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729679657 source:d:\codeblockprojects\xcs-our approach(twl only observation)\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1739960484 d:\codeblockprojects\xcs-our approach(twl only observation)\time.h
+	<sys/time.h>
+	<fstream>
+
+1742807142 source:d:\codeblockprojects\xcs-our approach(twl only observation)\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+	<regex>
+
+1739452998 d:\codeblockprojects\xcs-our approach(twl only observation)\xcs.h
+	<fstream>
+
+1729679657 source:d:\codeblockprojects\xcs-our approach(twl only observation)\xcsmacros.cpp
+	"xcsMacros.h"
+
+1741443803 source:d:\codeblockprojects\xcs-our-approach(twl-only-observation)\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1729679657 d:\codeblockprojects\xcs-our-approach(twl-only-observation)\xcsmacros.h
+
+1732907554 d:\codeblockprojects\xcs-our-approach(twl-only-observation)\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1743204887 d:\codeblockprojects\xcs-our-approach(twl-only-observation)\configuration.h
+
+1732900577 d:\codeblockprojects\xcs-our-approach(twl-only-observation)\classifier.h
+
+1732908105 source:d:\codeblockprojects\xcs-our-approach(twl-only-observation)\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+
+1743264182 source:d:\codeblockprojects\xcs-our-approach(twl-only-observation)\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	<mysql.h>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	<windows.h>
+	<unistd.h>
+	<sys/wait.h>
+
+1743071742 d:\codeblockprojects\xcs-our-approach(twl-only-observation)\env.h
+	"tinyxml2.h"
+
+1725291190 d:\codeblockprojects\xcs-our-approach(twl-only-observation)\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729679657 source:d:\codeblockprojects\xcs-our-approach(twl-only-observation)\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1739960484 d:\codeblockprojects\xcs-our-approach(twl-only-observation)\time.h
+	<sys/time.h>
+	<fstream>
+
+1743202997 source:d:\codeblockprojects\xcs-our-approach(twl-only-observation)\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+	<regex>
+
+1739452998 d:\codeblockprojects\xcs-our-approach(twl-only-observation)\xcs.h
+	<fstream>
+
+1742912349 source:d:\codeblockprojects\xcs-our-approach(twl-only-observation)\xcsmacros.cpp
+	"xcsMacros.h"
+
+1741447403 source:d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1729683257 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\xcsmacros.h
+
+1732911154 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1744127560 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\configuration.h
+
+1732904177 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\classifier.h
+
+1732911705 source:d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+
+1744943162 source:d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	<mysql.h>
+	<sys/stat.h>
+	<cstdlib>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	"classifier.h"
+	<windows.h>
+	<unistd.h>
+	<sys/wait.h>
+
+1725294790 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\tinyxml2-master\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1744916455 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\env.h
+	"tinyxml2.h"
+
+1725294790 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729683257 source:d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1739964084 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\time.h
+	<sys/time.h>
+	<fstream>
+
+1744907596 source:d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+	<regex>
+
+1744121153 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\xcs.h
+	<fstream>
+
+1744051774 source:d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations\xcsmacros.cpp
+	"xcsMacros.h"
+
+1741447403 source:d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1729683257 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\xcsmacros.h
+
+1732911154 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1744127560 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\configuration.h
+
+1732904177 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\classifier.h
+
+1732911705 source:d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+
+1745422346 source:d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	<mysql.h>
+	<sys/stat.h>
+	<cstdlib>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	"classifier.h"
+	<windows.h>
+	<unistd.h>
+	<sys/wait.h>
+
+1725294790 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\tinyxml2-master\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1744916455 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\env.h
+	"tinyxml2.h"
+
+1725294790 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729683257 source:d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1739964084 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\time.h
+	<sys/time.h>
+	<fstream>
+
+1744907596 source:d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+	<regex>
+
+1744121153 d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\xcs.h
+	<fstream>
+
+1744051774 source:d:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations123\xcsmacros.cpp
+	"xcsMacros.h"
+
+1741447403 source:d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1729683257 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\xcsmacros.h
+
+1732911154 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1744127560 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\configuration.h
+
+1732904177 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\classifier.h
+
+1732911705 source:d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+
+1745671494 source:d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	<mysql.h>
+	<sys/stat.h>
+	<cstdlib>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	"classifier.h"
+	<windows.h>
+	<unistd.h>
+	<sys/wait.h>
+
+1725294790 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\tinyxml2-master\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1744916455 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\env.h
+	"tinyxml2.h"
+
+1725294790 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729683257 source:d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1739964084 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\time.h
+	<sys/time.h>
+	<fstream>
+
+1745694196 source:d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+	<regex>
+
+1744121153 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\xcs.h
+	<fstream>
+
+1744051774 source:d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(crosscheckthreetimeswhenbeatpreviousbestrt)\xcsmacros.cpp
+	"xcsMacros.h"
+
+1741447403 source:d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1729683257 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\xcsmacros.h
+
+1732911154 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1744127560 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\configuration.h
+
+1732904177 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\classifier.h
+
+1732911705 source:d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+
+1745858512 source:d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	<mysql.h>
+	<sys/stat.h>
+	<cstdlib>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	"classifier.h"
+	<windows.h>
+	<unistd.h>
+	<sys/wait.h>
+
+1725294790 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\tinyxml2-master\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1744916455 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\env.h
+	"tinyxml2.h"
+
+1725294790 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729683257 source:d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1739964084 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\time.h
+	<sys/time.h>
+	<fstream>
+
+1745694196 source:d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+	<regex>
+
+1744121153 d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\xcs.h
+	<fstream>
+
+1744051774 source:d:\codeblockprojects\xcs-idrees\26042025-xcs-twl-and-transactionswl-observations(factorinpairs)\xcsmacros.cpp
+	"xcsMacros.h"
+
+1741447403 source:e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\classifier.cpp
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<math.h>
+	<assert.h>
+	<fstream>
+	"xcsMacros.h"
+	"codeFragment.h"
+	"classifier.h"
+
+1729683257 e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\xcsmacros.h
+
+1732911154 e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\codefragment.h
+	<fstream>
+	"configuration.h"
+	"classifier.h"
+
+1752330619 e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\configuration.h
+
+1732904177 e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\classifier.h
+
+1732911705 source:e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\codefragment.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<assert.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<math.h>
+	"xcsMacros.h"
+	"codeFragment.h"
+
+1752331990 source:e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\env.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstring>
+	<memory>
+	<vector>
+	<array>
+	<cmath>
+	<tinyxml2.h>
+	<windows.h>
+	<thread>
+	<chrono>
+	<algorithm>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<regex>
+	<mysql.h>
+	<sys/stat.h>
+	<cstdlib>
+	"xcsMacros.h"
+	"configuration.h"
+	"env.h"
+	"classifier.h"
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	<termios.h>
+	<fcntl.h>
+	<windows.h>
+	<unistd.h>
+	<sys/wait.h>
+
+1725294790 e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\tinyxml2-master\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1744916455 e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\env.h
+	"tinyxml2.h"
+
+1725294790 e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1729683257 source:e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\time.cpp
+	<string.h>
+	<fstream>
+	"time.h"
+
+1739964084 e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\time.h
+	<sys/time.h>
+	<fstream>
+
+1752065704 source:e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\xcs.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<vector>
+	<string>
+	<windows.h>
+	<utility>
+	<unordered_map>
+	<cctype>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"xcsMacros.h"
+	"time.h"
+	"configuration.h"
+	"classifier.h"
+	"env.h"
+	"xcs.h"
+	<regex>
+
+1744121153 e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\xcs.h
+	<fstream>
+
+1744051774 source:e:\codeblockprojects\xcs-idrees\xcs-twl-and-transactionswl-observations(factornotincreasedandshiftedtopreviousstate)\xcsmacros.cpp
+	"xcsMacros.h"
+

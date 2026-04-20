@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build XCS (Docker)",
+      "type": "shell",
+      "command": "mkdir -p /app/src/bin && g++ -g -O0 /app/src/src/*.cpp -o /app/src/bin/xcs -I/usr/include/mariadb -ltinyxml2 -lmariadb",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}

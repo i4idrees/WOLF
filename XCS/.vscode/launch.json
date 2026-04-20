@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug XCS (Container)",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "/app/src/bin/xcs",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "/app/src",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/usr/bin/gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ],
+      "preLaunchTask": "Build XCS (Docker)"
+    }
+  ]
+}

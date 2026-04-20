@@ -1,0 +1,80 @@
+2026-04-20 17:58:49,988 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-04-20 17:58:50,013 INFO o.a.j.JMeter: Loading user properties from: /opt/apache-jmeter-5.1.1/bin/user.properties
+2026-04-20 17:58:50,014 INFO o.a.j.JMeter: Loading system properties from: /opt/apache-jmeter-5.1.1/bin/system.properties
+2026-04-20 17:58:50,020 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2026-04-20 17:58:50,021 INFO o.a.j.JMeter: Version 5.1.1 r1855137
+2026-04-20 17:58:50,022 INFO o.a.j.JMeter: java.version=21.0.10
+2026-04-20 17:58:50,022 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2026-04-20 17:58:50,023 INFO o.a.j.JMeter: os.name=Linux
+2026-04-20 17:58:50,023 INFO o.a.j.JMeter: os.arch=amd64
+2026-04-20 17:58:50,023 INFO o.a.j.JMeter: os.version=5.15.153.1-microsoft-standard-WSL2
+2026-04-20 17:58:50,024 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-04-20 17:58:50,024 INFO o.a.j.JMeter: java.awt.headless=true
+2026-04-20 17:58:50,024 INFO o.a.j.JMeter: Max memory     =1073741824
+2026-04-20 17:58:50,025 INFO o.a.j.JMeter: Available Processors =14
+2026-04-20 17:58:50,034 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-04-20 17:58:50,035 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-04-20 17:58:50,035 INFO o.a.j.JMeter: JMeterHome=/opt/apache-jmeter-5.1.1
+2026-04-20 17:58:50,036 INFO o.a.j.JMeter: user.dir  =/app/src
+2026-04-20 17:58:50,036 INFO o.a.j.JMeter: PWD       =/app/src
+2026-04-20 17:58:50,037 INFO o.a.j.JMeter: IP: 172.18.0.4 Name: 9e512bc0ec87 FullName: 9e512bc0ec87
+2026-04-20 17:58:50,048 INFO o.a.j.s.FileServer: Default base='/app/src'
+2026-04-20 17:58:50,051 INFO o.a.j.s.FileServer: Set new base='/app/src/config/RUBiS-testplan'
+2026-04-20 17:58:50,297 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2026-04-20 17:58:50,329 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2026-04-20 17:58:50,334 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2026-04-20 17:58:50,338 INFO o.a.j.s.SaveService: Loading file: config/RUBiS-testplan/testplan.jmx
+2026-04-20 17:58:50,384 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-04-20 17:58:50,384 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-04-20 17:58:50,385 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-04-20 17:58:50,385 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-04-20 17:58:50,385 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2026-04-20 17:58:50,386 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2026-04-20 17:58:50,469 INFO o.a.j.JMeter: Creating summariser <summary>
+2026-04-20 17:58:50,477 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2026-04-20 17:58:50,479 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-04-20 17:58:50,479 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-04-20 17:58:50,485 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2026-04-20 17:58:50,486 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2026-04-20 17:58:50,562 INFO o.a.j.JMeter: Running test (1776707930562)
+2026-04-20 17:58:50,599 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : RegisterUser_thread_group
+2026-04-20 17:58:50,600 INFO o.a.j.e.StandardJMeterEngine: Starting 0 threads for group RegisterUser_thread_group.
+2026-04-20 17:58:50,600 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-04-20 17:58:50,601 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=0 ramp-up=0 delayedStart=false
+2026-04-20 17:58:50,601 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2026-04-20 17:58:50,601 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : BrowseInCategories_thread_group
+2026-04-20 17:58:50,602 INFO o.a.j.e.StandardJMeterEngine: Starting 0 threads for group BrowseInCategories_thread_group.
+2026-04-20 17:58:50,602 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-04-20 17:58:50,602 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=0 ramp-up=0 delayedStart=false
+2026-04-20 17:58:50,603 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2026-04-20 17:58:50,603 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 3 : BrowseInRegions_thread_group
+2026-04-20 17:58:50,603 INFO o.a.j.e.StandardJMeterEngine: Starting 3 threads for group BrowseInRegions_thread_group.
+2026-04-20 17:58:50,604 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-04-20 17:58:50,604 INFO o.a.j.t.ThreadGroup: Starting thread group... number=3 threads=3 ramp-up=0 delayedStart=false
+2026-04-20 17:58:50,612 INFO o.a.j.t.ThreadGroup: Started thread group number 3
+2026-04-20 17:58:50,613 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 4 : SellItem_thread_group
+2026-04-20 17:58:50,614 INFO o.a.j.e.StandardJMeterEngine: Starting 0 threads for group SellItem_thread_group.
+2026-04-20 17:58:50,615 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-04-20 17:58:50,615 INFO o.a.j.t.ThreadGroup: Starting thread group... number=4 threads=0 ramp-up=0 delayedStart=false
+2026-04-20 17:58:50,616 INFO o.a.j.t.ThreadGroup: Started thread group number 4
+2026-04-20 17:58:50,616 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 5 : AboutMePage_thread_group
+2026-04-20 17:58:50,617 INFO o.a.j.e.StandardJMeterEngine: Starting 0 threads for group AboutMePage_thread_group.
+2026-04-20 17:58:50,617 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-04-20 17:58:50,618 INFO o.a.j.t.ThreadGroup: Starting thread group... number=5 threads=0 ramp-up=0 delayedStart=false
+2026-04-20 17:58:50,618 INFO o.a.j.t.ThreadGroup: Started thread group number 5
+2026-04-20 17:58:50,619 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 6 : AboutMeUser_thread_group
+2026-04-20 17:58:50,620 INFO o.a.j.e.StandardJMeterEngine: Starting 0 threads for group AboutMeUser_thread_group.
+2026-04-20 17:58:50,620 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-04-20 17:58:50,621 INFO o.a.j.t.ThreadGroup: Starting thread group... number=6 threads=0 ramp-up=0 delayedStart=false
+2026-04-20 17:58:50,621 INFO o.a.j.t.ThreadGroup: Started thread group number 6
+2026-04-20 17:58:50,622 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2026-04-20 17:58:50,658 INFO o.a.j.t.JMeterThread: Thread started: BrowseInRegions_thread_group 3-2
+2026-04-20 17:58:50,658 INFO o.a.j.t.JMeterThread: Thread started: BrowseInRegions_thread_group 3-3
+2026-04-20 17:58:50,658 INFO o.a.j.t.JMeterThread: Thread started: BrowseInRegions_thread_group 3-1
+2026-04-20 17:58:50,661 INFO o.a.j.s.FileServer: Stored: /app/src/config/RUBiS-testplan/usersData.csv
+2026-04-20 17:58:50,686 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = 9e512bc0ec87
+2026-04-20 17:58:50,693 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2026-04-20 17:58:50,697 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2026-04-20 17:58:50,697 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2026-04-20 17:58:50,698 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2026-04-20 17:58:50,698 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000

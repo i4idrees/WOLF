@@ -1,0 +1,2 @@
+Max Epochs, Epsilon, Avg RT objective, ER objective, Testing, Test Frequency
+30,0.5,12,20,0,500

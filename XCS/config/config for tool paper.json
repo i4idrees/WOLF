@@ -1,0 +1,16 @@
+[
+    {
+        "SUT": "RUBIS",
+        "transactions": ["RegisterUser",
+         "BrowseInCategories","BrowseInRegions",
+         "SellItem", "AboutMePage", "AboutMeUser"],
+        "allPossibleActions": [1, 2, 3, 4, 5, 6],
+        "workloadChangeBy": 1,
+        "workloadChangeType": 1,
+        "maxProblems": 100000,
+        "Epsilon": 0.5,
+        "ARTThreshhold": 50.0,
+        "Testing": 0,
+        "testFrequency": 1000
+    }
+]
